@@ -4,7 +4,7 @@ from PyQt5.QtGui import *
 # import sys
 import sys
 
-# Auther : Hasan Mohammed AL-Shikh
+# Author Hasan Mohammed AL-Shikh
 # GUI : like SOFTWARE box {interface}
 # yout can share this code with ur friends {}
 # thanks for MARYAM and AMAL and SHAHD .....!
